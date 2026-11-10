@@ -6,3 +6,6 @@ Proyecto de practica del curso Git y GitHub (PIT 2026, UNI).
 ## Porciones
 6 vasos
 Publicada en GitHub en la sesion 4.
+
+## Uso
+Ver receta.md y preparar 6 vasos de limonada.
